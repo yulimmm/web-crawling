@@ -6,5 +6,5 @@
 
 ### KBO 잠실 안타 데이터
 - getGameid.ipynb 실행 -> 2023gameid.xlsx 생성
-- KBO_Data.ipynb 실행 -> jamsilgame.xlsx 생성
+- KBO_Data.ipynb 실행 -> jamsilgame_hits&pitcher.xlsx, gocheokgame_hits&pitcher.xlsx 생성
 - KBO 홈페이지 사용 (https://www.koreabaseball.com/)
