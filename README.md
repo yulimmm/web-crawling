@@ -6,5 +6,10 @@
 
 ### KBO 잠실, 고척 경기 데이터
 - getGameid.ipynb 실행 -> 2023gameid.xlsx 생성
-- KBO_Data.ipynb 실행 -> jamsilgame_hits&pitcher.xlsx, gocheokgame_hits&pitcher.xlsx 생성
+- KBO_Data.ipynb 실행 -> 다음 xlsx파일 생성
+```jamsilgame_hits&pitcher.xlsx
+gocheokgame_hits&pitcher.xlsx
+jamsilgame_longhit.xlsx
+gocheokgame_longhit.xlsx 
+```
 - KBO 홈페이지 사용 (https://www.koreabaseball.com/)
